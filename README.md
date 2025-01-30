@@ -9,8 +9,7 @@ A simple and efficient URL shortener built using Golang. This project allows use
 ✅ Optimized performance with Golang  
 
 ## Tech Stack  
-- **Backend**: Golang  
-- **Database**: (Mention if you're using SQLite, PostgreSQL, Redis, or any other storage)  
+- **Backend**: Golang    
 - **Frameworks/Libraries**: (List any Golang packages like `gorilla/mux`, `gin-gonic/gin`, etc.)  
 
 ## Installation & Setup  
